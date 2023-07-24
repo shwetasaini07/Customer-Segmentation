@@ -21,6 +21,13 @@
 
 ### Visualization
 
+#### Elbow Method to identify the number of clusters 
+
+![elbow](https://github.com/shwetasaini07/clustering/assets/38052962/b51bf80f-bb95-4986-aa80-55bbc632d036)
+
+#### Predicting Clusters
+
+![prediction](https://github.com/shwetasaini07/clustering/assets/38052962/45033c5e-85d6-4bb9-b5b7-e36b9858525b)
 
 
 ### Data Source 
